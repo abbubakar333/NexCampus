@@ -1,4 +1,5 @@
 # NexCampus
+<<<<<<< HEAD
 
 NexCampus is a Smart Campus Platform designed for modern education. It centralizes attendance, leaves, gate passes, complaints, and notices in one unified platform.
 
@@ -94,3 +95,6 @@ After running the seed script, you can log in with:
 - Email: student1@nexcampus.demo
 - Password: Demo@12345
 *(Available up to student30@nexcampus.demo)*
+=======
+NexCampus is a modern campus management platform designed to bring students, faculty, and administrators together in one connected space. It simplifies day-to-day campus life with features such as announcements, event management, resource sharing, and communication tools, helping institutions run more efficiently and students stay engaged.
+>>>>>>> f0205c6f7e0e278291cf5ed4c461f614659819fe
